@@ -1,1 +1,1 @@
-# Coursera-course
+# Exploratory Data Aanlysis - Retail
